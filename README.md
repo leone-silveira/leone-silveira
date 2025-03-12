@@ -3,9 +3,8 @@
 ## Facts
 
 - 🌱 I’m currently learning
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![FastApi#](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![ReactNative](https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=)
-![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 - 💬 I'm fascinated about 3d printer
 
